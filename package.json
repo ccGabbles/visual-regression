@@ -1,0 +1,22 @@
+{
+  "name": "visual-regression",
+  "version": "1.0.0",
+  "description": "CoP evening on visual regression",
+  "dependencies": {
+    "@frctl/fractal": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "fractal:start":"fractal start --sync",
+    "fractal:build":"fractal build",
+    "backstop:test":"backstop test",
+    "backstop:approve":"backstop approve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccGabbles/visual-regression.git"
+  },
+  "author": "Gabriël Moawad",
+  "license": "MIT",
+  "homepage": "https://github.com/ccGabbles/visual-regression#readme"
+}
