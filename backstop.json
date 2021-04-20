@@ -22,21 +22,15 @@
   "scenarios": [
     {
       "label": "Example1 component",
-      "url": "http://localhost:3000/components/preview/example1",
-      "referenceUrl": "",
-      "readyEvent": "",
-      "readySelector": "",
-      "delay": 0,
-      "hideSelectors": [],
-      "removeSelectors": [],
-      "hoverSelector": "",
-      "clickSelector": "",
-      "postInteractionWait": 0,
-      "selectors": [],
-      "selectorExpansion": true,
-      "expect": 0,
-      "misMatchThreshold" : 0.1,
-      "requireSameDimensions": true
+      "url": "http://localhost:3000/components/preview/example1"
+    },
+    {
+      "label": "Example2 component",
+      "url": "http://localhost:3000/components/preview/example2"
+    },
+    {
+      "label": "Example overview",
+      "url": "http://localhost:3000/components/preview/example-overview"
     }
   ],
   "paths": {

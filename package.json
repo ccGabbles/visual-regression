@@ -7,10 +7,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "fractal:start":"fractal start --sync",
-    "fractal:build":"fractal build",
-    "backstop:test":"backstop test",
-    "backstop:approve":"backstop approve"
+    "fractal:start": "fractal start --sync",
+    "fractal:build": "fractal build",
+    "backstop:test": "backstop test",
+    "backstop:approve": "backstop approve"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,6 @@
+title: Example overview
+context:
+  example1:
+    text: This is the example1 component!!1!
+  example2: 
+    text: This is the example2 component!!2!
